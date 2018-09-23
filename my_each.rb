@@ -4,4 +4,5 @@ def my_each(array)
   yeild (array[i])
   i = i + 1
   end
+  array
 end
